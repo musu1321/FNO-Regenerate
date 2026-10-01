@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+
+# OneNote exports
+*.one
+*.onetoc2
+
+# Generated datasets (regenerate with notebooks/01_generate_navier_stokes_data.ipynb)
+data_cache/
+*.npy
